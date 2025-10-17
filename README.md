@@ -103,7 +103,7 @@
                         <span class="bg-teal-100 text-teal-800 text-sm font-bold mr-3 px-3 py-1.5 rounded-full">情境 B</span>
                         <h2 class="text-xl font-bold text-gray-900">線上電商</h2>
                     </div>
-                    <p class="text-gray-600 mb-6">一個線上銷售客製化手機殼的電商網站，目標是提升網站的總銷售額，並希望廣告投資報酬率 (ROAS) 能達到 300%。</p>
+                    <p class="text-gray-600 mb-6">一個線上銷售客製化手機殼（均價2000）的電商網站，目標是提升網站的總銷售額，預算為一個月6萬，並希望一週轉換次數可達30次。</p>
                     
                      <form id="form-b" class="space-y-4">
                         <div>
