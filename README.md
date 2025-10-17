@@ -1,5 +1,4 @@
-# 2025-10-29-google-basics-101-class-homework
-<!DOCTYPE html>
+
 <html lang="zh-TW">
 <head>
     <meta charset="UTF-8">
